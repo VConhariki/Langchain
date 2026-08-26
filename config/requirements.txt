@@ -1,0 +1,7 @@
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+rank-bm25
+python-dotenv
+langchain-githubcopilot-chat
