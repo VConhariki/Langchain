@@ -110,7 +110,7 @@ def obter_rag(caminho_arquivo: str | None = None) -> BM25Retriever:
     return retriever
 ```
 
-#### O que acontece here?
+#### O que acontece aqui?
 
 - `TextLoader` lê o arquivo `rag.md` como um documento do LangChain.
 - `RecursiveCharacterTextSplitter` divide o texto em trechos menores.
